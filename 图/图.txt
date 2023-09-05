@@ -1,0 +1,1 @@
+6 7 B C A D E F B C 9 C A 1 A D 5 D E 2 E F 7 C F 4 E B 6

@@ -1,0 +1,4 @@
+D:\程序\OSM\x64\Debug\OSM.exe
+D:\程序\OSM\x64\Debug\OSM.vcxproj.CopyComplete
+D:\程序\OSM\x64\Debug\tinyxml2.dll
+D:\Program\C++\OSM\x64\Debug\OSM.exe
